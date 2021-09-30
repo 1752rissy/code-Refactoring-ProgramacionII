@@ -1,0 +1,14 @@
+D:\Programacion II - FPotenciar\PRACTICA REFACTORING\code-Refactoring-ProgramacionII\CodeRefactoring\bin\Debug\netcoreapp3.0\CodeRefactoring.exe
+D:\Programacion II - FPotenciar\PRACTICA REFACTORING\code-Refactoring-ProgramacionII\CodeRefactoring\bin\Debug\netcoreapp3.0\CodeRefactoring.deps.json
+D:\Programacion II - FPotenciar\PRACTICA REFACTORING\code-Refactoring-ProgramacionII\CodeRefactoring\bin\Debug\netcoreapp3.0\CodeRefactoring.runtimeconfig.json
+D:\Programacion II - FPotenciar\PRACTICA REFACTORING\code-Refactoring-ProgramacionII\CodeRefactoring\bin\Debug\netcoreapp3.0\CodeRefactoring.runtimeconfig.dev.json
+D:\Programacion II - FPotenciar\PRACTICA REFACTORING\code-Refactoring-ProgramacionII\CodeRefactoring\bin\Debug\netcoreapp3.0\CodeRefactoring.dll
+D:\Programacion II - FPotenciar\PRACTICA REFACTORING\code-Refactoring-ProgramacionII\CodeRefactoring\bin\Debug\netcoreapp3.0\CodeRefactoring.pdb
+D:\Programacion II - FPotenciar\PRACTICA REFACTORING\code-Refactoring-ProgramacionII\CodeRefactoring\obj\Debug\netcoreapp3.0\CodeRefactoring.csproj.AssemblyReference.cache
+D:\Programacion II - FPotenciar\PRACTICA REFACTORING\code-Refactoring-ProgramacionII\CodeRefactoring\obj\Debug\netcoreapp3.0\CodeRefactoring.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion II - FPotenciar\PRACTICA REFACTORING\code-Refactoring-ProgramacionII\CodeRefactoring\obj\Debug\netcoreapp3.0\CodeRefactoring.AssemblyInfoInputs.cache
+D:\Programacion II - FPotenciar\PRACTICA REFACTORING\code-Refactoring-ProgramacionII\CodeRefactoring\obj\Debug\netcoreapp3.0\CodeRefactoring.AssemblyInfo.cs
+D:\Programacion II - FPotenciar\PRACTICA REFACTORING\code-Refactoring-ProgramacionII\CodeRefactoring\obj\Debug\netcoreapp3.0\CodeRefactoring.csproj.CoreCompileInputs.cache
+D:\Programacion II - FPotenciar\PRACTICA REFACTORING\code-Refactoring-ProgramacionII\CodeRefactoring\obj\Debug\netcoreapp3.0\CodeRefactoring.dll
+D:\Programacion II - FPotenciar\PRACTICA REFACTORING\code-Refactoring-ProgramacionII\CodeRefactoring\obj\Debug\netcoreapp3.0\CodeRefactoring.pdb
+D:\Programacion II - FPotenciar\PRACTICA REFACTORING\code-Refactoring-ProgramacionII\CodeRefactoring\obj\Debug\netcoreapp3.0\CodeRefactoring.genruntimeconfig.cache

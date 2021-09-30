@@ -1,0 +1,6 @@
+#In the local directory for the root of the project
+git init
+git remote add Origin <URL for Azure Git repo>
+git add .
+git commit -m 'initial commit'
+git Push -u Origin master

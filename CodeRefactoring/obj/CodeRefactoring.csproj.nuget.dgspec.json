@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programacion II - FPotenciar\\Codigo refactoring\\Code-Refactoring-with-C-\\code-Refactoring-ProgramacionII\\CodeRefactoring\\CodeRefactoring.csproj": {}
+    "D:\\Programacion II - FPotenciar\\PRACTICA REFACTORING\\code-Refactoring-ProgramacionII\\CodeRefactoring\\CodeRefactoring.csproj": {}
   },
   "projects": {
-    "D:\\Programacion II - FPotenciar\\Codigo refactoring\\Code-Refactoring-with-C-\\code-Refactoring-ProgramacionII\\CodeRefactoring\\CodeRefactoring.csproj": {
+    "D:\\Programacion II - FPotenciar\\PRACTICA REFACTORING\\code-Refactoring-ProgramacionII\\CodeRefactoring\\CodeRefactoring.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programacion II - FPotenciar\\Codigo refactoring\\Code-Refactoring-with-C-\\code-Refactoring-ProgramacionII\\CodeRefactoring\\CodeRefactoring.csproj",
+        "projectUniqueName": "D:\\Programacion II - FPotenciar\\PRACTICA REFACTORING\\code-Refactoring-ProgramacionII\\CodeRefactoring\\CodeRefactoring.csproj",
         "projectName": "CodeRefactoring",
-        "projectPath": "D:\\Programacion II - FPotenciar\\Codigo refactoring\\Code-Refactoring-with-C-\\code-Refactoring-ProgramacionII\\CodeRefactoring\\CodeRefactoring.csproj",
+        "projectPath": "D:\\Programacion II - FPotenciar\\PRACTICA REFACTORING\\code-Refactoring-ProgramacionII\\CodeRefactoring\\CodeRefactoring.csproj",
         "packagesPath": "C:\\Users\\agutierrez752\\.nuget\\packages\\",
-        "outputPath": "D:\\Programacion II - FPotenciar\\Codigo refactoring\\Code-Refactoring-with-C-\\code-Refactoring-ProgramacionII\\CodeRefactoring\\obj\\",
+        "outputPath": "D:\\Programacion II - FPotenciar\\PRACTICA REFACTORING\\code-Refactoring-ProgramacionII\\CodeRefactoring\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\agutierrez752\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

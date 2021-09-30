@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4FWiDQLdyOlxtSMzEJ9SF7Q+Og7l/qtpOiDu86WW39mdy4Cg9QXWXYsS5+cT6f9QhjJ3jlrg8SraYoFYG6gRAg==",
+  "dgSpecHash": "/Hgt60fOOnUsneVybblq+75rX/enN0BlK/b6LbIGayrdpTRd8Lv00EVgtOJL5S8KY3eAjZiYcFrzo9OM9WRA2g==",
   "success": true,
-  "projectFilePath": "D:\\Programacion II - FPotenciar\\Codigo refactoring\\Code-Refactoring-with-C-\\code-Refactoring-ProgramacionII\\CodeRefactoring\\CodeRefactoring.csproj",
+  "projectFilePath": "D:\\Programacion II - FPotenciar\\PRACTICA REFACTORING\\code-Refactoring-ProgramacionII\\CodeRefactoring\\CodeRefactoring.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\agutierrez752\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
-    "C:\\Users\\agutierrez752\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
     "C:\\Users\\agutierrez752\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
-    "C:\\Users\\agutierrez752\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+    "C:\\Users\\agutierrez752\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\agutierrez752\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\agutierrez752\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
   ],
   "logs": []
 }
